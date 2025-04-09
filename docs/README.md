@@ -1,3 +1,9 @@
+## Riparinoed Version
+
+
+Did not properly run in Docker on Windows 11 with WSL backend, at least not on a couple of my systems. Fixes were mininmal.
+
+--------------------------
 <p align=center>
   <br>
   <a href="https://sherlock-project.github.io/" target="_blank"><img src="images/sherlock-logo.png"/></a>
